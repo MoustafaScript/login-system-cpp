@@ -1,3 +1,0 @@
-admin root
-yes iu2
-pika beta5
