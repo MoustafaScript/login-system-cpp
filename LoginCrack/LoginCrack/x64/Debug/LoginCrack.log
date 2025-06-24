@@ -1,0 +1,5 @@
+﻿  cmdsadmin.cpp
+  deepapp.cpp
+  Source.cpp
+  utils.cpp
+LINK : fatal error LNK1104: cannot open file 'x64\Debug\cmdsadmin.obj'
