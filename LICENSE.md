@@ -29,6 +29,6 @@ in the Software under the following conditions:
    ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  
 
-📲 For inquiries about this license, contact:
+For inquiries about this license, contact:
 Telegram: @SimpleCreditLicense  
 GitHub: github.com/MoustafaScript
